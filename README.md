@@ -9,6 +9,10 @@ This React app initiates the OAuth authorization flow, enabling users to securel
 - Node.js (v20+ recommended)
 - npm or yarn
 
+### Configuration
+
+Copy `.env.example` to `.env` and update environment variables as needed.
+
 ### Installation
 
 ```bash
